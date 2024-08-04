@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pankaj Digambar Narwade</h1>
-<h1 align="center">I am a Jr Web Developer Intern @GBJ BUZZ Nagpur</h1>
+<h2 align="center">I am a Jr Web Developer Intern @GBJ BUZZ Nagpur</h2>
 <h3 align="center">A passionate Frontend/Backend developer from Umarkhed, Maharashtra.</h3>
 
 - 🔭 I’m currently working on **Wonderlust: A full stack hotel renting applications**
