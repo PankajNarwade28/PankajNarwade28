@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React and Next**
 
-- 👨‍💻 All of my projects are available at [https://pankajnarwade.netlify.app/#Project](https://pankajnarwade.netlify.app/)#Project)
+- 👨‍💻 All of my projects are available at [https://pankajnarwade.netlify.app/#Project](https://pankajnarwade.netlify.app/#Project))
 
 - 📫 How to reach me **pankajnarwade258@gmail.com**
 
