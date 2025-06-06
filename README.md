@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **pankajnarwade258@gmail.com**
 
-- 📄 Know about my experiences [[[https://drive.google.com/file/d/1mWWGQh1GXBC35954bhMDt07GbZ2FCqW_/view?usp=drivesdk](https://drive.google.com/file/d/1hHBZyi7EDDNChn9IywUOeVfoOcatq2z8/view)] ](https://drive.google.com/file/d/1mWWGQh1GXBC35954bhMDt07GbZ2FCqW_/view?usp=drivesdk)
+-  📄 My CV: [Know about my experiences](https://drive.google.com/file/d/1hHBZyi7EDDNChn9IywUOeVfoOcatq2z8/view)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
