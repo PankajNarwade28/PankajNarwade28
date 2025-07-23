@@ -62,26 +62,11 @@
 
 ---
 
-### 📸 Projects Showcase
-
-Here are some cool demo cards you can later replace:
-
-| Project | Tech Stack | Demo |
-|--------|-------------|------|
-| **Wonderlust** | MERN Stack, Tailwind, Cloudinary | [Live Demo 🔗](https://your-demo-link.netlify.app) |
-| **ToDo Web App** | React, LocalStorage | [Live Demo 🔗](https://your-demo-link.netlify.app) |
-| **E-commerce UI** | React, Tailwind CSS | [Live Demo 🔗](https://your-demo-link.netlify.app) |
-
----
 
 ### ✍️ Quote of the Day
 > *"Code is like humor. When you have to explain it, it’s bad."*
 
 ---
 
-### 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/PankajNarwade28/PankajNarwade28/blob/output/github-contribution-grid-snake.svg)
-
----
 
