@@ -53,7 +53,7 @@
 ⭐ **[Portfolio Website](https://pankajnarwade.netlify.app/)** – My responsive personal portfolio.
 
 ---
-### Leetcode Stats
+### 🧠 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Pankaj_Narwade_28" alt="LeetCode Stats" />
 </p>
