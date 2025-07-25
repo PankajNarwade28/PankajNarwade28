@@ -49,7 +49,7 @@
 
 ### 📂 Featured Projects
 
-⭐ **[Wonderlust](https://github.com/PankajNarwade28/wonderlust)** – A hotel booking platform built using MERN stack and Tailwind CSS.   
+⭐ **[Wonderlust](https://github.com/PankajNarwade28/wonderlust)** – A hotel booking platform.   
 ⭐ **[Portfolio Website](https://pankajnarwade.netlify.app/)** – My responsive personal portfolio.
 
 ---
@@ -58,7 +58,6 @@
   <img src="https://leetcard.jacoblin.cool/Pankaj_Narwade_28" alt="LeetCode Stats" />
 </p>
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
