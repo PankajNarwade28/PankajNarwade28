@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Frontend Developer | 💻 Tech Enthusiast | 🎯 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="375" alt="Coding animation">
 </p>
 
 ---
