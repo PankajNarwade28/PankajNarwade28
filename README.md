@@ -9,11 +9,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on: **Wonderlust – A Full Stack Hotel Renting Application**
+- 🔭 I’m currently pursuing: **Masters of Computer Application**
 - 🌱 Currently exploring: **React ⚛️ | Next.js ⚡ | Tailwind CSS 💨**
 - 💼 Ex- Jr Web Developer @GBJBuzz Pvt Ltd, Nagpur
 - 🎓 MCA Student @Modern College of Engineering, Pune
-- 💬 Ask me about: **Frontend, React, JavaScript, Tailwind CSS, Node.js**
+- 💬 Ask me about: **Frontend, React, JavaScript, Node.js**
 - 📫 Reach me at: **pankajnarwade258@gmail.com**
 - 📄 [Download My Resume](https://drive.google.com/file/d/1hHBZyi7EDDNChn9IywUOeVfoOcatq2z8/view)
 - 🌐 [Visit My Portfolio](https://pankajnarwade.netlify.app/)
@@ -39,7 +39,7 @@
 ### 🛠 Tech Stack & Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,,git,github,vscode,eclipse,leetcode" />
 </p>
 
 ---
