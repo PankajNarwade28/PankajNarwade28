@@ -15,7 +15,8 @@
 - 🎓 MCA Student @Modern College of Engineering, Pune
 - 💬 Ask me about: **Frontend, React, JavaScript, Node.js**
 - 📫 Reach me at: **pankajnarwade258@gmail.com**
-- 📄 [Download My Resume]([https://drive.google.com/file/d/1hHBZyi7EDDNChn9IywUOeVfoOcatq2z8/view](https://drive.google.com/file/d/1mXPYjUQn2j71N-a7M9XZoeKCWGTIm4HY/view?usp=sharing))
+- 📄[📄 Resume](https://drive.google.com/file/d/1mXPYjUQn2j71N-a7M9XZoeKCWGTIm4HY/view?usp=sharing)
+
 - 🌐 [Visit My Portfolio](https://pankajnarwade.netlify.app/)
 
 ---
