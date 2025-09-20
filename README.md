@@ -41,8 +41,7 @@
 ### 🛠 Tech Stack & Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=next,react,html,css,js,nodejs,express,mongodb,mysql,oracle,c,cpp,java,python,,git,github,vscode,eclipse,xampp
-    " />
+  <img src="https://skillicons.dev/icons?i=next,react,html,css,js,nodejs,express,mongodb,mysql,oracle,c,cpp,java,python,,git,github,vscode,eclipse" />
    
 
 </p>
