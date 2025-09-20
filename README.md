@@ -41,7 +41,7 @@
 ### 🛠 Tech Stack & Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,oracle,,c,cpp,java,python,,git,github,vscode,eclipse" />
+  <img src="https://skillicons.dev/icons?i=next,html,css,js,react,nodejs,express,mongodb,mysql,oracle,,c,cpp,java,python,,git,github,vscode,eclipse" />
    
 
 </p>
@@ -51,7 +51,7 @@
 ### 📂 Featured Projects
 
 ⭐ **[Wonderlust](https://github.com/PankajNarwade28/wonderlust)** – A hotel booking platform.   
-⭐ **[Portfolio Website](https://pankajnarwade.netlify.app/)** – My responsive personal portfolio.
+⭐ **[Portfolio Website](https://pankajnarwade.vercel.app/)** – My responsive personal portfolio.
 
 ---
 ### 🧠 LeetCode Stats
