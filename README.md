@@ -68,9 +68,9 @@
 </p>
 
 <p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajNarwade28&theme=tokyonight" alt="GitHub Streak" />
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://your-vercel-domain.vercel.app/?user=PankajNarwade28&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajNarwade28&layout=compact&theme=tokyonight" alt="Top Languages" />
