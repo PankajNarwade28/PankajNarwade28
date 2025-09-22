@@ -30,7 +30,7 @@
   <a href="mailto:pankajnarwade258@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
   </a>
-  <a href="https://pankajnarwade.netlify.app/" target="_blank">
+  <a href="https://pankajnarwade.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
    <a href="https://leetcode.com/u/Pankaj_Narwade_28/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
@@ -68,9 +68,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajNarwade28&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.denvercoder1.vercel.app/?user=PankajNarwade28&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajNarwade28&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
