@@ -17,7 +17,7 @@
 - 📫 Reach me at: **pankajnarwade258@gmail.com**
 - 📄[Resume](https://drive.google.com/file/d/1mXPYjUQn2j71N-a7M9XZoeKCWGTIm4HY/view?usp=sharing)
 
-- 🌐 [Visit My Portfolio](https://pankajnarwade.netlify.app/)
+- 🌐 [Visit My Portfolio](https://pankajnarwade.vercel.app/)
 
 ---
 
