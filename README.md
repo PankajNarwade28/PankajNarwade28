@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently pursuing: **Masters of Computer Application** and Intern **@Media Urbana**.
 - 🌱 Currently exploring: **React ⚛️ | Next.js ⚡ | Tailwind CSS 💨**
-- 💼 Ex- Jr Web Developer @GBJBuzz Pvt Ltd, Nagpur
+- 💼 Ex- Jr Web Developer Intern @GBJBuzz Pvt Ltd, Nagpur
 - 🎓 MCA Student @Modern College of Engineering, Pune
 - 💬 Ask me about: **Frontend, React, JavaScript, Node.js**
 - 📫 Reach me at: **pankajnarwade258@gmail.com**
