@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently pursuing: **Masters of Computer Application's** and Intern **@Media Urbana**.
-- 🌱 Currently exploring: **React ⚛️ | Next.js ⚡ | Tailwind CSS 💨**
+- 🌱 Currently Exploring: **React ⚛️ | Next.js ⚡ | Tailwind CSS 💨**
 - 💼 Ex- Jr Web Developer Intern @GBJBuzz Pvt Ltd, Nagpur
 - 🎓 MCA Student @Modern College of Engineering, Pune
 - 💬 Ask me about: **Frontend, React, JavaScript, Node.js**
