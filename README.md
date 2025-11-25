@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="375" alt="Coding animation">
 </p>
-000000
+
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently pursuing: **Masters of Computer Application's** and Intern **@Media Urbana**.
