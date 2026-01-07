@@ -63,10 +63,10 @@
 
 | Overall Stats | Top Languages |
 | :--- | :--- |
-| ![Stats Card](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight) | ![Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight) |
+| ![Stats Card](https://github-readme-stats.vercel.app/api?username=PankajNarwade28&show_icons=true&theme=tokyonight) | ![Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=PankajNarwade28&layout=compact&theme=tokyonight) |
 
 ### 🔥 Contribution Streak
-![Streak Card](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Streak Card](https://github-readme-streak-stats.herokuapp.com/?user=PankajNarwade28&theme=tokyonight)
 
 ---
 
