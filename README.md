@@ -150,19 +150,21 @@ Frontend Development • React.js • JavaScript • Node.js • MongoDB • Res
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
+
+<!-- <div align="center">
+## 🏆 GitHub Trophies
   <img src="https://github-profile-trophy.vercel.app/?username=PankajNarwade28&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
+</div> -->
 
 ---
 
-## 📈 Contribution Snake
 
-<div align="center">
+
+<!-- <div align="center">
+## 📈 Contribution Snake
   <img src="https://raw.githubusercontent.com/PankajNarwade28/PankajNarwade28/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 ---
 
@@ -180,12 +182,7 @@ Frontend Development • React.js • JavaScript • Node.js • MongoDB • Res
 
 I'm always excited to collaborate on interesting projects and connect with fellow developers!
 
-### 💼 Open for Opportunities
-
-- 🌟 Frontend Development Projects
-- 🤝 Open Source Contributions
-- 📚 Learning & Knowledge Sharing
-- 🎯 Full-Stack Development Roles
+ 
 
 ### 📧 Reach Out
 
