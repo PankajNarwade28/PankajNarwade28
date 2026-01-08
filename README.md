@@ -4,7 +4,7 @@
 
 ### 🚀 Passionate Frontend Developer | 💻 Tech Enthusiast | 🎯 Lifelong Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;MCA+Student+%F0%9F%8E%93;Open+Source+Enthusiast+%E2%9C%A8;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;MCA+Student+%F0%9F%8E%93;Learning Enthusiast+%E2%9C%A8;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation">
 
