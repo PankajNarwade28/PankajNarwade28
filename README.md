@@ -91,7 +91,7 @@ Frontend Development • React.js • JavaScript • Node.js • MongoDB • Res
       <h3 align="center">🏨 Wonderlust</h3>
       <div align="center">
         <a href="https://github.com/PankajNarwade28/wonderlust" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PankajNarwade28&repo=wonderlust&theme=tokyonight" alt="Wonderlust" />
+           <img src="https://img.shields.io/badge/Visit-Live_Site-success?style=for-the-badge&logo=vercel" alt="Wonderlust" />
         </a>
         <p>
           <strong>Full-Stack Hotel Booking Platform</strong><br>
