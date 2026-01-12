@@ -41,7 +41,7 @@ const pankaj = {
 ### 🔥 Current Focus
 
 - 🎓 Pursuing **Master's in Computer Applications**
-- 💼 Working as an Intern at **Media Urbana**
+- 💼 Worked for 3 month as an Intern at **Media Urbana**
 - 🌱 Diving deep into **React ecosystem & Modern Web Technologies**
 - 👨‍💻 Building full-stack applications with **MERN Stack**
 - 🧠 Sharpening problem-solving skills on **LeetCode**
