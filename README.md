@@ -29,7 +29,7 @@ const pankaj = {
     institute: "Modern College of Engineering, Pune",
     currentRole: "Intern KVNCraft Technologies. ",
     previousInternships: "Ex-Media Urbana , Ex-GBJBuzz Nagpur",
-    currentlyLearning: ["React.js", "Next.js", "Tailwind CSS","PostgreSQL],
+    currentlyLearning: ["React.js", "Next.js", "Tailwind CSS","PostgreSQL"],
     interests: ["Web Development", "Problem Solving", "Open Source"],
     funFact: "I debug with console.log() and I'm proud of it! 🐛",
     lifePhilosophy: "Code, Learn, Repeat 🔄"
