@@ -27,9 +27,9 @@ const pankaj = {
     location: "Pune, Maharashtra, India 🇮🇳",
     education: "Masters in Computer Application (MCA)",
     institute: "Modern College of Engineering, Pune",
-    currentRole: "Intern @Media Urbana",
-    previousRole: "Jr Web Developer @GBJBuzz Pvt Ltd, Nagpur",
-    currentlyLearning: ["React.js", "Next.js", "Tailwind CSS"],
+    currentRole: "Intern KVNCraft Technologies. ",
+    previousInternships: "Ex-Media Urbana , Ex-GBJBuzz Nagpur",
+    currentlyLearning: ["React.js", "Next.js", "Tailwind CSS","PostgreSQL],
     interests: ["Web Development", "Problem Solving", "Open Source"],
     funFact: "I debug with console.log() and I'm proud of it! 🐛",
     lifePhilosophy: "Code, Learn, Repeat 🔄"
@@ -40,8 +40,7 @@ const pankaj = {
 
 ### 🔥 Current Focus
 
-- 🎓 Pursuing **Master's in Computer Applications**
-- 💼 Worked for 3 month as an Intern at **Media Urbana**
+- 🎓 Pursuing **Master's in Computer Applications** 
 - 🌱 Diving deep into **React ecosystem & Modern Web Technologies**
 - 👨‍💻 Building full-stack applications with **MERN Stack**
 - 🧠 Sharpening problem-solving skills on **LeetCode**
