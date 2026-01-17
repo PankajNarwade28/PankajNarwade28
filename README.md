@@ -159,13 +159,6 @@ Frontend Development • React.js • JavaScript • Node.js • MongoDB • Res
 
 ---
 
-
-
-<!-- <div align="center">
-## 📈 Contribution Snake
-  <img src="https://raw.githubusercontent.com/PankajNarwade28/PankajNarwade28/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div> -->
-
 ---
 
 ## 💡 Random Dev Quote
