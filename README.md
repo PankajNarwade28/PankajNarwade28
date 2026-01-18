@@ -152,11 +152,7 @@ Frontend Development • React.js • JavaScript • Node.js • MongoDB • Res
 
 
 
-<!-- <div align="center">
-## 🏆 GitHub Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=PankajNarwade28&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div> -->
-
+ 
 ---
 
 ---
