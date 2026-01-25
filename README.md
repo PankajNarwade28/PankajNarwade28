@@ -133,6 +133,7 @@ Frontend Development • React.js • JavaScript • Node.js • MongoDB • Res
 
 ---
 
+
 ## 🧠 LeetCode Journey
 
 <div align="center">
@@ -141,7 +142,7 @@ Frontend Development • React.js • JavaScript • Node.js • MongoDB • Res
 
 <div align="center">
 
-### 📈 Problem Solving Progress
+### 📈 Problem Solving Progress Leetcode
 ![](https://img.shields.io/badge/Easy-Solving-brightgreen?style=for-the-badge)
 ![](https://img.shields.io/badge/Medium-Challenging-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Hard-Learning-red?style=for-the-badge)
