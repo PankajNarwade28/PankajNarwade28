@@ -32,7 +32,7 @@ const pankaj = {
     currentlyLearning: ["React.js", "Next.js", "Tailwind CSS","PostgreSQL"],
     interests: ["Web Development", "Problem Solving", "Open Source"],
     funFact: "I debug with console.log() and I'm proud of it! 🐛",
-    lifePhilosophy: "Code, Learn, Repeat 🔄"
+    lifePhilosophy: "Eat ,Code, Sleep, Learn,  Repeat 🔄"
 };
 ```
 
