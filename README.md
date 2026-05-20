@@ -183,36 +183,11 @@ const pankaj = {
 <div align="center">
 
 <!-- GitHub Trophies -->
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=PankajNarwade28&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=PankajNarwade28&theme=onestar&no-frame=true&no-bg=true&column=8&margin-w=15&margin-h=15"/>
 
 <br>
 
-### 🌟 Highlights
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="60px"/>
-      <br><b>Rank 1st in BCA</b>
-      <br><sub>Academic Excellence</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/medal.png" width="60px"/>
-      <br><b>Student of the Year</b>
-      <br><sub>2023 Award</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60px"/>
-      <br><b>Production Projects</b>
-      <br><sub>Real-world Experience</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/brain.png" width="60px"/>
-      <br><b>Problem Solver</b>
-      <br><sub>Active on LeetCode</sub>
-    </td>
-  </tr>
-</table>
+ 
 
 </div>
  
@@ -250,24 +225,7 @@ Whether it's discussing tech, working on a project, or just saying hi — feel f
 
 ### 📬 Get In Touch
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="mailto:pankajnarwade258@gmail.com">
-        <img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" width="60px"/>
-        <br><b>Email</b>
-        <br><sub>pankajnarwade258@gmail.com</sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.linkedin.com/in/pankaj-narwade-13a053260/">
-        <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60px"/>
-        <br><b>LinkedIn</b>
-        <br><sub>Pankaj Narwade</sub>
-      </a>
-    </td>
-       </tr>
-</table>
+ 
 
 <br>
 
