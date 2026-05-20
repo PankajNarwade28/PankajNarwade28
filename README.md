@@ -48,7 +48,7 @@
 <!-- About Me Section -->
 <h2 align="center">🚀 About Me</h2>
 
-<div align="center">
+<div>
 
 ```javascript
 const pankaj = {
