@@ -146,14 +146,16 @@ const pankaj = {
 ---
 
 <!-- LeetCode Section -->
-<h2 align="center">🧠 LeetCode Journey</h2>
+<!-- <h2 align="center">🧠 LeetCode Journey</h2>
 
-<div align="center">
+<div align="center"> -->
 
 <!-- LeetCode Stats Card -->
-<img src="https://leetcard.jacoblin.cool/Pankaj_Narwade_28?theme=dark&font=Noto%20Sans&ext=contest&border=0&radius=10" alt="LeetCode Stats"/>
+<!-- <img src="https://leetcard.jacoblin.cool/Pankaj_Narwade_28?theme=dark&font=Noto%20Sans&ext=contest&border=0&radius=10" alt="LeetCode Stats"/>
 
-<br><br>
+<br><br> -->
+
+<br>
 
 ### 📈 Problem Solving Progress
 
