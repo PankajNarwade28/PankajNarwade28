@@ -1,40 +1,82 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=250&section=header&text=Pankaj%20Narwade&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-# 👋 Hi, I'm Pankaj Digambar Narwade.
+# 👋 Hi, I'm Pankaj Digambar Narwade
 
+### 🚀 Frontend Developer | 💻 MERN Stack Developer | 🎓 MCA Student
 
-### 🚀 Passionate Frontend Developer | 💻 Tech Enthusiast | 🎯 Lifelong Learner
+<p align="center">
+Passionate about building scalable web applications and crafting beautiful user experiences.
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;MCA+Student+%F0%9F%8E%93;Learning+Enthusiast+%E2%9C%A8;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+💻;MERN+Stack+Developer+🚀;React+%26+Next.js+Enthusiast+⚡;Problem+Solver+🧩;Always+Learning+✨" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation">
+<p align="center">
+  <a href="https://pankajnarwade.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://pankajnarwade.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-narwade-13a053260/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankajnarwade258@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pankaj_Narwade_28/)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1mXPYjUQn2j71N-a7M9XZoeKCWGTIm4HY/view?usp=sharing)
+  <a href="https://www.linkedin.com/in/pankaj-narwade-13a053260/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PankajNarwade28&color=blueviolet&style=for-the-badge)
+  <a href="mailto:pankajnarwade258@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Pankaj_Narwade_28/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1mXPYjUQn2j71N-a7M9XZoeKCWGTIm4HY/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PankajNarwade28&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-## 🎯 About Me
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/PankajNarwade28/PankajNarwade28/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 🚀 About Me
 
 ```javascript
 const pankaj = {
     location: "Pune, Maharashtra, India 🇮🇳",
     education: "Masters in Computer Application (MCA)",
     institute: "Modern College of Engineering, Pune",
-    currentRole: "Intern KVNCraft Technologies. ",
-    previousInternships: "Ex-Media Urbana , Ex-GBJBuzz Nagpur",
-    currentlyLearning: ["React.js", "Next.js", "Tailwind CSS","PostgreSQL"],
-    interests: ["Web Development", "Problem Solving", "Open Source"],
+    currentRole: "Intern @ KVNCraft Technologies",
+    previousInternships: [
+        "Media Urbana",
+        "GBJBuzz Nagpur"
+    ],
+    currentlyLearning: [
+        "React.js",
+        "Next.js",
+        "Tailwind CSS",
+        "PostgreSQL"
+    ],
+    interests: [
+        "Web Development",
+        "Problem Solving",
+        "Open Source"
+    ],
     funFact: "I debug with console.log() and I'm proud of it! 🐛",
-    lifePhilosophy: "Eat ,Code, Sleep, Learn,  Repeat 🔄"
+    lifePhilosophy: "Eat • Code • Sleep • Learn • Repeat 🔄"
 };
 ```
 
@@ -42,150 +84,224 @@ const pankaj = {
 
 ### 🔥 Current Focus
 
-- 🎓 Pursuing **Master's in Computer Applications** 
-- 🌱 Diving deep into **React ecosystem & Modern Web Technologies**
-- 👨‍💻 Building full-stack applications with **MERN Stack**
-- 🧠 Sharpening problem-solving skills on **LeetCode**
-- 🚀 Exploring **Next.js 15** and **Server Components**
-
-### 💬 Ask Me About
-
-Frontend Development • React.js • JavaScript • Node.js • MongoDB • Responsive Design • REST APIs
+- 🎓 Pursuing Master's in Computer Applications
+- 🌱 Exploring React Ecosystem & Modern Web Technologies
+- 🚀 Building Full Stack MERN Applications
+- 🧠 Solving Problems on LeetCode
+- ⚡ Learning Next.js 15 & Server Components
+- 🎯 Improving Backend & Database Skills
 
 ---
 
-## 🛠️ Tech Arsenal
+# ⚒️ Tech Stack
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### 💻 Languages & Frameworks
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,java,python,c,cpp,tailwind" />
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![InversifyJS](https://img.shields.io/badge/InversifyJS-2B2E4A?style=for-the-badge&logo=javascript&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
+
+</div>
 
 ---
 
-## 🏆 Featured Projects
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PankajNarwade28&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏨 Wonderlust</h3>
-      <div align="center">
-        <a href="https://github.com/PankajNarwade28/wonderlust" target="_blank">
-           <img src="https://img.shields.io/badge/Visit-Live_Site-success?style=for-the-badge&logo=vercel" alt="Wonderlust" />
-        </a>
-        <p>
-          <strong>Full-Stack Hotel Booking Platform</strong><br>
-          Built with MERN Stack | Authentication & Authorization | Image Upload | Interactive Maps
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎨 Portfolio Website</h3>
-      <div align="center">
-        <a href="https://pankajnarwade.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Visit-Live_Site-success?style=for-the-badge&logo=vercel" alt="Portfolio" />
-        </a>
-        <p>
-          <strong>Personal Portfolio</strong><br>
-          Modern & Responsive Design | Showcases Projects & Skills | Interactive UI/UX
-        </p>
-      </div>
-    </td>
-  </tr>
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🏨 Wonderlust</h3>
+
+<div align="center">
+
+<a href="https://github.com/PankajNarwade28/wonderlust" target="_blank">
+<img src="https://img.shields.io/badge/View-Project-success?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+<strong>Full Stack Hotel Booking Platform</strong>
+
+<br><br>
+
+✨ Features:
+
+✔ Authentication & Authorization  
+✔ Image Upload  
+✔ Interactive Maps  
+✔ MERN Stack Application  
+✔ Responsive UI  
+
+</div>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🎨 Portfolio Website</h3>
+
+<div align="center">
+
+<a href="https://pankajnarwade.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Visit-Live_Site-success?style=for-the-badge&logo=vercel"/>
+</a>
+
+<br><br>
+
+<strong>Modern Developer Portfolio</strong>
+
+<br><br>
+
+✨ Features:
+
+✔ Fully Responsive Design  
+✔ Interactive Animations  
+✔ Dynamic CMS Support  
+✔ Modern UI/UX  
+
+</div>
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PankajNarwade28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajNarwade28&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PankajNarwade28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajNarwade28&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajNarwade28&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PankajNarwade28&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajNarwade28&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PankajNarwade28&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
 ---
 
-
-## 🧠 LeetCode Journey
+# 🧠 LeetCode Journey
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Pankaj_Narwade_28?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" />
+
+<img src="https://leetcard.jacoblin.cool/Pankaj_Narwade_28?theme=dark&font=Noto%20Sans&ext=contest" />
+
 </div>
 
 <div align="center">
 
-### 📈 Problem Solving Progress Leetcode
+### 📈 Problem Solving Progress
+
 ![](https://img.shields.io/badge/Easy-Solving-brightgreen?style=for-the-badge)
+
 ![](https://img.shields.io/badge/Medium-Challenging-yellow?style=for-the-badge)
+
 ![](https://img.shields.io/badge/Hard-Learning-red?style=for-the-badge)
 
 </div>
 
 ---
- 
- 
----
+
+# 🌟 Achievements
+
+- 🥇 Ranked 1st in BCA Graduation
+- 🏆 Student of the Year Award
+- 💼 Worked on Production-Level Projects
+- 🚀 Contributed to Multiple Full Stack Applications
+- 🎯 Active Learner & Problem Solver
 
 ---
 
-## 💡 Random Dev Quote
+# 💡 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
 </div>
 
 ---
 
-## 📫 Let's Connect & Collaborate!
+# 🌐 Connect With Me
 
 <div align="center">
 
-I'm always excited to collaborate on interesting projects and connect with fellow developers!
+<a href="https://www.linkedin.com/in/pankaj-narwade-13a053260/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
- 
+<a href="mailto:pankajnarwade258@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
-### 📧 Reach Out
+<a href="https://github.com/PankajNarwade28">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
 
-**Email:** pankajnarwade258@gmail.com  
-**Portfolio:** [pankajnarwade.vercel.app](https://pankajnarwade.vercel.app/)
+<a href="https://pankajnarwade.vercel.app/">
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</a>
+
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+# 📫 Let's Connect & Collaborate
 
-### ⭐ Show some love by starring my repositories!
+<div align="center">
 
-**Happy Coding!** 👨‍💻✨
+✨ I’m always open to collaborating on exciting projects and connecting with fellow developers.
+
+### 📧 Reach Out
+
+📩 Email: **pankajnarwade258@gmail.com**
+
+🌐 Portfolio: **https://pankajnarwade.vercel.app/**
+
+💼 LinkedIn: **Pankaj Narwade**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Show Some Love By Starring My Repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:3B82F6&height=120&section=footer"/>
+
+## 👨‍💻 Happy Coding!
 
 </div>
