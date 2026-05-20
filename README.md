@@ -67,7 +67,7 @@ const pankaj = {
     
     🌱 currentlyLearning: ["Next.js 15", "Server Components", "Advanced PostgreSQL"],
     💪 strengths: ["Problem Solving", "Full Stack Development", "Clean Code"],
-    🎯 goals2024: ["Master React Ecosystem", "Contribute to Open Source", "Build SaaS Products"],
+    🎯 goals2027: ["Master React Ecosystem", "Contribute to Open Source", "Build SaaS Products"],
     
     ⚡ funFact: "I debug with console.log() and I'm proud of it! 🐛",
     💭 motto: "Code • Learn • Build • Repeat 🔄"
@@ -108,7 +108,7 @@ const pankaj = {
 <br>
 
 ### ⚙️ Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" alt="backend"/>
 <br>
 
 ### 💻 Programming Languages
@@ -116,7 +116,7 @@ const pankaj = {
 <br>
 
 ### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,npm,linux" alt="tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,npm" alt="tools"/>
 
 </div>
 
@@ -192,7 +192,7 @@ const pankaj = {
 🔹 Contact form integration  
 🔹 SEO optimized  
 
-**Tech:** Next.js · Tailwind CSS · Framer Motion · Vercel
+**Tech:** React.js · Tailwind CSS · CMS Portal · Vercel
 
 <a href="https://pankajnarwade.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -287,22 +287,7 @@ const pankaj = {
 
 ---
 
-<!-- Work Experience Section -->
-<h2 align="center">💼 Work Experience</h2>
-
-<div align="center">
-
-```mermaid
-gantt
-    title Professional Journey
-    dateFormat  YYYY-MM
-    section Internships
-    KVNCraft Technologies    :active, 2024-01, 2026-05
-    Media Urbana            :done, 2023-06, 2023-12
-    GBJBuzz Nagpur          :done, 2023-01, 2023-05
-```
-
-</div>
+ 
 
 <br>
 
@@ -351,14 +336,7 @@ Whether it's discussing tech, working on a project, or just saying hi — feel f
         <br><sub>Pankaj Narwade</sub>
       </a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://pankajnarwade.vercel.app/">
-        <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="60px"/>
-        <br><b>Portfolio</b>
-        <br><sub>pankajnarwade.vercel.app</sub>
-      </a>
-    </td>
-  </tr>
+       </tr>
 </table>
 
 <br>
