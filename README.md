@@ -129,17 +129,7 @@ const pankaj = {
 
 <div align="center">
 
-<!-- GitHub Stats Cards in a Responsive Layout -->
-<table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PankajNarwade28&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true&include_all_commits=true"/>
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajNarwade28&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8"/>
-    </td>
-  </tr>
-</table>
+ 
 
 <!-- GitHub Streak Stats -->
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=PankajNarwade28&theme=react&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1"/>
