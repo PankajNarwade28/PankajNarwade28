@@ -150,65 +150,8 @@ const pankaj = {
 </div>
 
 <br>
-
----
-
-<!-- Projects Section -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏨 [Wonderlust - Hotel Booking Platform](https://github.com/PankajNarwade28/wonderlust)
-
-**Full Stack MERN Application**
-
-🔹 Complete authentication & authorization system  
-🔹 Image upload with cloud storage  
-🔹 Interactive maps integration  
-🔹 Responsive & modern UI design  
-🔹 Real-time booking functionality  
-
-**Tech:** MongoDB · Express · React · Node.js · Cloudinary
-
-<a href="https://github.com/PankajNarwade28/wonderlust" target="_blank">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎨 [Portfolio Website](https://pankajnarwade.vercel.app/)
-
-**Modern Developer Portfolio**
-
-🔹 Fully responsive across all devices  
-🔹 Smooth animations & transitions  
-🔹 Dynamic project showcase  
-🔹 Contact form integration  
-🔹 SEO optimized  
-
-**Tech:** React.js · Tailwind CSS · CMS Portal · Vercel
-
-<a href="https://pankajnarwade.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-> 💡 **More projects available on my [GitHub Profile](https://github.com/PankajNarwade28?tab=repositories)**
-
-</div>
-
-<br>
+ 
+ 
 
 ---
 
@@ -282,10 +225,7 @@ const pankaj = {
 </table>
 
 </div>
-
-<br>
-
----
+ 
 
  
 
